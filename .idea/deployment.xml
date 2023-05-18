@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="root@hz-t2.matpool.com:28633">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/CascadeRCNN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz-t3.matpool.com:29673">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/CascadeRCNN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-3.seetacloud.com:49210">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/CascadeRCNN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-31.seetacloud.com:38499">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/CascadeRCNN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-31.seetacloud.com:59017">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/CascadeRCNN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
